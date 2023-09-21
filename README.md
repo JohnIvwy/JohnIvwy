@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- I am John, I am frontend developer and I have some proyects that I wanna share with you.
 <!--
 **JohnIvwy/JohnIvwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
